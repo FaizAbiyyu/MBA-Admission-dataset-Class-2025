@@ -7,7 +7,7 @@ Repository ini berisi analisis data terkait keputusan melanjutkan pendidikan MBA
 ## 📂 Dataset
 
 Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
-🔗 [MBA Decision After Bachelor&#39;s Dataset](https://www.kaggle.com/datasets/ashaychoudhary/dataset-mba-decision-after-bachelors/data)
+🔗 [MBA Admission dataset, Class 2025  -  Dataset](https://www.kaggle.com/datasets/taweilo/mba-admission-dataset)
 
 Dataset ini berisi berbagai faktor seperti pengalaman kerja, latar belakang pendidikan, dan preferensi individu yang dapat memengaruhi keputusan untuk melanjutkan MBA.
 
