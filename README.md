@@ -1,4 +1,4 @@
-# MBA Decision After Bachelor's
+# MBA Admission dataset, Class 2025
 
 ## 📌 Overview
 
@@ -66,4 +66,4 @@ Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk detail le
 
 ---
 
-**Author:** Faiz Abiyyu
+**Author:** Faiz AbiyyuMBA Admission dataset, Class 2025
