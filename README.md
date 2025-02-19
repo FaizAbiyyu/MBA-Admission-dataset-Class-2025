@@ -2,7 +2,11 @@
 
 ## 📌 Overview
 
-Repository ini berisi analisis data terkait keputusan melanjutkan pendidikan MBA setelah menyelesaikan gelar sarjana. Menggunakan dataset dari Kaggle, proyek ini mengeksplorasi faktor-faktor yang mempengaruhi seseorang dalam mengambil keputusan untuk melanjutkan ke jenjang MBA.
+Proyek ini bertujuan untuk menganalisis dan memprediksi hasil penerimaan program MBA berdasarkan berbagai fitur pelamar seperti jenis kelamin, GPA, skor GMAT, pengalaman kerja, dan lainnya. Dengan menggunakan dataset sintetis yang dihasilkan dari statistik Wharton Class of 2025, kami membangun model klasifikasi untuk memprediksi status penerimaan: Diterima, Ditolak, atau Daftar Tunggu.
+
+## 📌 Deskripsi Proyek
+
+Tujuan utama dari proyek ini adalah mengembangkan model prediktif yang dapat menentukan kemungkinan seorang kandidat diterima, ditolak, atau ditempatkan dalam daftar tunggu program MBA. Model ini dibangun menggunakan algoritma klasifikasi, dan analisis dilakukan dengan fokus pada akurasi prediksi untuk setiap kelas.
 
 ## 📂 Dataset
 
@@ -39,7 +43,7 @@ MBA-Decision-After-Bachelor's/
 
 1. Clone repository ini:
    ```sh
-   git clone https://github.com/FaizAbiyyu/MBA-Decision-After-Bachelor-s.git
+   git clone https://github.com/FaizAbiyyu/MBA-Admission-dataset-Class-2025.git
    ```
 2. Unduh dataset dari Kaggle dan simpan dalam folder `data/`.
 3. Install dependencies dengan menjalankan:
@@ -60,10 +64,6 @@ MBA-Decision-After-Bachelor's/
 
 Jika ingin berkontribusi, silakan fork repository ini dan buat pull request dengan perubahan yang ingin diajukan.
 
-## 📝 License
-
-Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
-
 ---
 
-**Author:** Faiz AbiyyuMBA Admission dataset, Class 2025
+**Author:** Faiz Abiyyu MBA Admission dataset, Class 2025
